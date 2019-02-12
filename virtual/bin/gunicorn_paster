@@ -1,6 +1,5 @@
-#!/bin/sh
-'''exec' "/home/wairimu/Documents/moringa school projects/core/Watchlist/virtual/bin/python3.6" "$0" "$@"
-' '''
+#!/home/francs/Desktop/core/watchlist/virtual/bin/python3.6
+
 # -*- coding: utf-8 -*-
 import re
 import sys
